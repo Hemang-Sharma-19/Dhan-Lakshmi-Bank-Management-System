@@ -1,0 +1,6 @@
+account.dat
+transaction.dat
+transaction_backup.DAT
+transaction_old.dat
+*.exe
+*.out
